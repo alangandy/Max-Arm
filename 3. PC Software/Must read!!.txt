@@ -1,0 +1,3 @@
+Note: After proceeding to other games, the main program of this part will be replaced. 
+If want to start these games, please refor to the content in folder "4. Underlying Program Learning/ Python Development/ Lesson 1 Set Development Environment" 
+to re-downlaod the "Program file" in the same directory with this note to your controller.
